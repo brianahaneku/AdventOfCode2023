@@ -1,3 +1,0 @@
-/Users/brianahaneku/Projects/adventofcode/cmake-build-debug/CMakeFiles/adventofcode.dir
-/Users/brianahaneku/Projects/adventofcode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/brianahaneku/Projects/adventofcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
